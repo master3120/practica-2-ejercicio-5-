@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Google</title>
+    <link rel="stylesheet" href="estilo.css">
+</head>
+<body>
+
+    <div class="menu">
+        <a href="#">gmail</a>
+        <a href="#">imagenes</a>
+        <button>iniciar sesion</button>
+    </div>
+
+    <div class="principal">
+
+        <h1>
+            <span class="azul">G</span>
+            <span class="rojo">o</span>
+            <span class="amarillo">o</span>
+            <span class="azul">g</span>
+            <span class="verde">l</span>
+            <span class="rojo">e</span>
+        </h1>
+        <input type="text" class="buscador">
+        <br><br>
+        <button>buscar con google</button>
+        <button>voy a tener suerte</button>
+        <button>modo IA</button>
+        <p>
+            ofrecido por google en:
+            <a href="#">español</a>
+        </p>
+    </div>
+
+    <div class="pie">
+        <p>Perú</p>
+        <a href="#">sobre google</a>
+        <a href="#">publicidad</a>
+        <a href="#">privacidad</a>
+        <a href="#">condiciones</a>
+
+    </div>
+</body>
+</html>
